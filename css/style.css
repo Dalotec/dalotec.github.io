@@ -41,7 +41,7 @@ body {
 
 h1 {
     font-size: 1.4rem;
-    margin: 2em 0em 1em 0em;
+    margin: 3em 0em 1.5em 0em;
     font-family: 'Open Sans';
     font-weight: 600;
     color:#ffffff;
@@ -51,8 +51,8 @@ h1 {
 }
 
 h2 {
-    font-size: 1.8rem;
-    margin: 0em 0em 1em 0em;
+    font-size: 1.9rem;
+    margin: 0em 0em 1.5em 0em;
     font-family: 'Roboto';
     font-weight: 100;
     letter-spacing: 1.5px;
