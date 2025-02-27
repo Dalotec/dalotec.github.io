@@ -96,3 +96,9 @@ a:hover {
 a:active {
     text-decoration: underline;
 }
+
+.footer {
+    position:absolute;
+    font-size:0.67rem;
+    bottom:1rem;
+}
