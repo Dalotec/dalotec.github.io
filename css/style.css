@@ -91,7 +91,11 @@ a:active { text-decoration: underline; }
 }
 
 .footerSocial {
-    position:absolute;
-    bottom:1.5rem;
-    z-index: 999;
+    /*bottom:1.5rem;
+    z-index: 999;*/
+}
+
+.footerCopyright {
+    /*bottom:1.5rem;
+    z-index: 999;*/
 }
