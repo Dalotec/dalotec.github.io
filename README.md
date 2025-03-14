@@ -1,1 +1,1 @@
-## [Open Website](https://dalotec.github.io)
+## [Open dalotec.github.io](https://dalotec.github.io)
